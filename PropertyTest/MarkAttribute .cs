@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 namespace PropertyTest
 {
     /// <summary>
-    /// 学习属性编程
+    /// 学习属性编程刷刷刷
     /// </summary>
     [AttributeUsage(AttributeTargets.Property, Inherited = false, AllowMultiple = true)]
     public class MarkAttribute:Attribute
